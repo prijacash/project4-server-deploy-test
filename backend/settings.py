@@ -146,4 +146,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ORIGIN_WHITELIST = [ 'http://localhost:3000' , 'https://elaborate-tanuki-10288f.netlify.app/' ]
+CORS_ORIGIN_WHITELIST = [ 'http://localhost:3000' , 'https://elaborate-tanuki-10288f.netlify.app' ]
